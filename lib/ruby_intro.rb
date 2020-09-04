@@ -33,3 +33,8 @@ end
 class BookInStock
 # YOUR CODE HERE
 end
+
+def sum arr
+  #YOUR CODE HERE
+  arr.inject(0, :+)
+end
